@@ -11,5 +11,6 @@ int main(){
     cout<<"Size of long int:"<<sizeof(long int)<<"byte(s)"<<endl;
     cout<<"Size of long long int:"<<sizeof(long long int)<<"byte(s)"<<endl;
 
+
     return 0;
 }
