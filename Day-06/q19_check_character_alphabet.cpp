@@ -5,7 +5,7 @@ int main(){
 
     char alphabet;
 
-    cout<<"Enter an alphabet:";
+    cout<<"Enter an character:";
     cin>>alphabet;
 
     if((alphabet>='a' && alphabet<='z') || (alphabet>='A' && alphabet<='Z'))
